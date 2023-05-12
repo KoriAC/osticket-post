@@ -107,5 +107,12 @@ In this image, the new team has been successfully created.
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/438be4422c7adad687a1e60086ada377.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this image, a new agent is being created. As you can see, the appropriate information is filled out.
+</p>
+<br />
 
 
