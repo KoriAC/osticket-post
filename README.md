@@ -115,4 +115,12 @@ In this image, a new agent is being created. As you can see, the appropriate inf
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/b8c0767e6db298439773e56547afae6a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+A password being setup for the new agent.
+</p>
+<br />
+
 
