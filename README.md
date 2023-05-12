@@ -147,6 +147,22 @@ Information about the user (customer) is being added such as their name and emai
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/d93557f3611a7930aef44166b594e17e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this image, the new user has been successfully added.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/ced5cf6a599afb9193f3dcbd3e346599.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this image, we are adding SLA's (Service Level Agreements). A Service Level Agreement is a contract between a service provider and a customer that outlines the level of service expected by the customer from the provider. There are 3 Levels : A,B and C. **Severity Level A ** has a grace period of 1 hour and is 24/7. **Severity Level B** has a grace period of 4 hours and is 24/7. Lastly, **Severity Level C** has a grace period of 8 hours and is 24/5.
+</p>
+<br />
+
 
 
 
