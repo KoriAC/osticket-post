@@ -131,4 +131,22 @@ A new agent has been successfully created. Furthermore, you can navigate through
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/40348fc1194106d28bbd2c26522daf99.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this image, a new user is being added from the perspective of a help desk agent.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/b395f84bd1953516b4d11bcbc291c034.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Information about the user (customer) is being added such as their name and email address.
+</p>
+<br />
+
+
+
 
