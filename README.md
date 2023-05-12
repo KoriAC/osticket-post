@@ -159,9 +159,34 @@ In this image, the new user has been successfully added.
 <img src="https://i.gyazo.com/ced5cf6a599afb9193f3dcbd3e346599.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this image, we are adding SLA's (Service Level Agreements). A Service Level Agreement is a contract between a service provider and a customer that outlines the level of service expected by the customer from the provider. There are 3 Levels : A,B and C. **Severity Level A ** has a grace period of 1 hour and is 24/7. **Severity Level B** has a grace period of 4 hours and is 24/7. Lastly, **Severity Level C** has a grace period of 8 hours and is 24/5.
+In this image, we are adding SLA's (Service Level Agreements). A Service Level Agreement is a contract between a service provider and a customer that outlines the level of service expected by the customer from the provider. There are 3 Levels : A,B and C. **Severity Level A ** has a grace period of 1 hour and a 24/7 schedule. **Severity Level B** has a grace period of 4 hours and a 24/7 schedule. Lastly, **Severity Level C** has a grace period of 8 hours and a 24/5 schedule.
 </p>
 <br />
+
+<p>
+<img src="https://i.gyazo.com/f65427200efb34b308cf5bc90a9f873c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLA Level A being added.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/2d23c96bc2ab87742996158fea2fd74f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLA Level B being added.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/269d34691b32d6a471c1736d7cc195dd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLA Level C being added.
+</p>
+<br />
+
 
 
 
