@@ -187,6 +187,22 @@ SLA Level C being added.
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/edcca5a651ca908647ca4733b7a2653d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this image, a couple of help topics will be created. Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. In addition, Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/34276f45a2f5d4d101b4e720540add2d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Help topics successfully added.
+</p>
+<br />
+
 
 
 
