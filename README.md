@@ -99,5 +99,13 @@ This is where you add members to your team.
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/62b2b950d239e1662f9fe7c198d17e96.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In this image, the new team has been successfully created.
+</p>
+<br />
+
 
 
