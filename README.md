@@ -91,5 +91,13 @@ In this image, this is where you enter the name of the new team.
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/37da9e37b357d59b6357367b454c2fb7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is where you add members to your team.
+</p>
+<br />
+
 
 
