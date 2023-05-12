@@ -123,4 +123,12 @@ A password being setup for the new agent.
 </p>
 <br />
 
+<p>
+<img src="https://i.gyazo.com/d32d6b67393e4e78ae245466830ad3e4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+A new agent has been successfully created. Furthermore, you can navigate through the tabs and decide how much responsibility you want to give the new agent.
+</p>
+<br />
+
 
